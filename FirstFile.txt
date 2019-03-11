@@ -7,3 +7,5 @@ This is machine 2 First Commit
 Machine 1 third commit
 
 Git First Branch Commit
+
+Second Branch First commit
